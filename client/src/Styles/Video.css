@@ -1,0 +1,17 @@
+.Video{
+    margin-top: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.textvideo {
+    
+    top: 300px;
+    left: 75px;                                
+    position:absolute;
+    text-align: left;
+    text-indent: 50px;
+    
+  }

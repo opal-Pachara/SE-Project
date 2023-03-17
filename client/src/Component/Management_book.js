@@ -34,7 +34,7 @@ export default function Manage_book() {
                             <p>Book ID:{val.Book_ID}</p>
                             <p>{val.Book_Name}</p>
                             <p>{val.Book_Type}&nbsp;&nbsp;{val.Book_Price}$</p>
-                            <Button className="btn btn-success" href='/book_update'>Update</Button>
+                            <button className="btn btn-success" href='/book_update'>Update</button>
                         </div>
                     </div>
                 </div>
